@@ -11,7 +11,7 @@
 <?php
 try{
 
-    $staff_code = $_POST['staffcode'];
+    $staff_code = $_GET['staffcode'];
 
     $dsn = 'mysql:dbname=shop_test_db;host=localhost;charset=utf8';
     $user = 'root';
