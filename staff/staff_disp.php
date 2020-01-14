@@ -30,7 +30,7 @@ try{
     $dbh = null;
 
 } catch (Exception $e) {
-    print '<div style="text-align:center;"><br /><br /><img src="IMG_7123.jpg" style="width:400px;"><br />ただいま障害により大変ご迷惑をお掛けしております？</div>';
+    print '<div style="text-align:center;"><br /><br /><img src="img01.jpg" style="width:400px;"><br />ただいま障害により大変ご迷惑をお掛けしております？</div>';
     exit();
 }
 
